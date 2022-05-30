@@ -1,0 +1,18 @@
+.svg {
+	border: 5px solid #111;
+	padding-left: 50px;
+}
+.chart {
+	padding: 1rem;
+	border-radius: 12px;
+	background-color: #f8dfff;
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+	height: 100px;
+	width: 500px;
+}
+.div {
+	width: 400;
+	height: 300;
+}
